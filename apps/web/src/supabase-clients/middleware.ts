@@ -2,7 +2,7 @@ import { createServerClient } from '@supabase/ssr'
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
 
-export async function updatefunction(req: NextRequest) {
+export async function updatesession(req: NextRequest) {
   let res = NextResponse.next()
 
   const supabase = createServerClient(
