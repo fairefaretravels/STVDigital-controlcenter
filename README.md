@@ -1,8 +1,3 @@
-Yes — I’ll write you a clean, professional README tailored to your STV Digital Control Center (Next.js + Supabase + Vercel) so it looks like a real product, not just a clone.
-
-You can paste this directly into your README.md in the root of your repo.
-
-⸻
 
 📡 STV Digital Control Center
 
